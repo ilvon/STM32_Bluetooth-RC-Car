@@ -17,6 +17,10 @@
 
 ## Remarks
 ### L298N Connections
+![Pasted image 20220508014129](https://user-images.githubusercontent.com/76443690/208470330-c1208874-55ab-4e7b-aebc-a35a09a6a526.png)
+
+*Image from [Last Minute Engineers](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)*
+
 | L298N Pin |    Connections     |
 |:---------:|:------------------:|
 |   OUT 1   |      Left +ve      |
